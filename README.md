@@ -55,3 +55,6 @@ docker run -d \
   -e FASTAPI_HOST=fastapi-app \
   streamlit_app
 ```
+
+## UI Image
+![My App Screenshot](src/UI.png)
