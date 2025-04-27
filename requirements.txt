@@ -1,0 +1,14 @@
+pathlib
+pandas
+db-sqlite3
+langchain
+openai
+sqlalchemy
+langchain-community
+langchain-experimental
+huggingface_hub
+langchain-ollama
+fastapi
+uvicorn
+langchain-groq
+regex
